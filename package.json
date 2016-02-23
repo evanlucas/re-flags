@@ -1,0 +1,24 @@
+{
+  "name": "re-flags",
+  "version": "1.0.0",
+  "description": "Get the flags from a RegExp",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js --cov"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "tap": "~5.6.0"
+  },
+  "license": "MIT",
+  "author": "Evan Lucas <evanlucas@me.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evanlucas/re-flags"
+  },
+  "homepage": "https://github.com/evanlucas/re-flags",
+  "bugs": {
+    "url": "https://github.com/evanlucas/re-flags/issues"
+  }
+}
